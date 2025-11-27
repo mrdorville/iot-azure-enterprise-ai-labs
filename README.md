@@ -48,3 +48,15 @@ Se recomienda usar Azure Cloud Shell como terminal principal
 pip install azure-iot-device azure-storage-blob fastavro openai requests
 
 Cada carpeta contiene su script listo para ejecucion y replica empresarial completa.
+
+---
+
+## Laboratorios incluidos
+
+1. Telemetry Simulator (Windows)
+2. ESP32 Simulator (Cloud Shell)
+3. IoT Hub to Blob Storage Routing
+4. Critical Monitoring and Alerts
+5. Blob Storage AVRO Reader
+6. Azure AI / OpenAI IoT Analysis
+
