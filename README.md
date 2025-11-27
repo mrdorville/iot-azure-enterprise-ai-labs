@@ -60,3 +60,20 @@ Cada carpeta contiene su script listo para ejecucion y replica empresarial compl
 5. Blob Storage AVRO Reader
 6. Azure AI / OpenAI IoT Analysis
 
+---
+
+## Diagrama de arquitectura
+
+[Simulador IoT / ESP32]
+           |
+           v
+     Azure IoT Hub
+           |
+           v
+Message Routing (Reglas de negocio)
+           |
+           v
+   Azure Blob Storage (AVRO)
+           |
+           v
+ Azure AI Services / Azure OpenAI
