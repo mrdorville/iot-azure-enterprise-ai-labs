@@ -1,0 +1,5 @@
+azure-iot-device
+azure-storage-blob
+fastavro
+openai
+requests
