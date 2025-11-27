@@ -81,6 +81,8 @@ Message Routing (reglas de negocio)
 Azure AI Services / Azure OpenAI
 ~~~
 
+---
+
 ## Estructura del laboratorio IoT
 
 Este repositorio contiene los laboratorios prácticos del curso de IoT, organizados por etapas progresivas, desde la simulación de telemetría hasta el análisis con Inteligencia Artificial.
