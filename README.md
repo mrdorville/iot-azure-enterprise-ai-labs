@@ -44,8 +44,9 @@ Se recomienda usar Azure Cloud Shell como terminal principal.
 
 ## Instalación de dependencias
 
-```bash
+~~~bash
 pip install azure-iot-device azure-storage-blob fastavro openai requests
+~~~
 
 Cada carpeta contiene su script listo para ejecución y réplica empresarial completa.
 
@@ -64,7 +65,7 @@ Cada carpeta contiene su script listo para ejecución y réplica empresarial com
 
 ## Diagrama de arquitectura
 
-```text
+~~~text
 [Simulador IoT / ESP32]
            |
            v
@@ -78,3 +79,4 @@ Message Routing (reglas de negocio)
            |
            v
 Azure AI Services / Azure OpenAI
+~~~
